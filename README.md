@@ -35,7 +35,7 @@ vortex-engine/
 |        
 ├── go.mod      # go mod file
 ├── setup.sh    # script for setting the program up
-├── LICENSE     # ARR ("all rights reserved") license !!!       
+├── LICENSE     # MIT license       
 └── README.md   # Project documentation
 
 ```
