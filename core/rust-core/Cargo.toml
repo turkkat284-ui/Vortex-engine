@@ -1,0 +1,13 @@
+# Rust's Cargo.toml for high-performance networking
+[package]
+name = "rust-core"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+rand = "0.8"
+libc = "0.2"
+# For future expansion: pnet = "0.34"
