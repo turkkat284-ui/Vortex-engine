@@ -8,6 +8,8 @@ An advanced, high-performance Wi-Fi security auditing and network penetration te
 
 **VORTEX-ENGINE** is a  network auditing framework written in **Go** and **C**. By leveraging the low-level system performance of C and the concurrent processing power of Go, VORTEX-ENGINE delivers high-speed network analysis, rogue access point simulation, and access control testing.
 
+P.S.: Please report if there is an bug or issue in the code or in the setup.sh
+
 ---
 
 ## ✨ Features
